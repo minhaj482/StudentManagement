@@ -1,0 +1,20 @@
+c:\users\minhaj\source\repos\CRUD - List\CRUD - List\bin\Debug\CRUD - List.exe.config
+c:\users\minhaj\source\repos\CRUD - List\CRUD - List\bin\Debug\CRUD - List.exe
+c:\users\minhaj\source\repos\CRUD - List\CRUD - List\bin\Debug\CRUD - List.pdb
+c:\users\minhaj\source\repos\CRUD - List\CRUD - List\obj\Debug\CRUD - List.csprojResolveAssemblyReference.cache
+c:\users\minhaj\source\repos\CRUD - List\CRUD - List\obj\Debug\CRUD___List.Form1.resources
+c:\users\minhaj\source\repos\CRUD - List\CRUD - List\obj\Debug\CRUD___List.Properties.Resources.resources
+c:\users\minhaj\source\repos\CRUD - List\CRUD - List\obj\Debug\CRUD - List.csproj.GenerateResource.Cache
+c:\users\minhaj\source\repos\CRUD - List\CRUD - List\obj\Debug\CRUD - List.csproj.CoreCompileInputs.cache
+c:\users\minhaj\source\repos\CRUD - List\CRUD - List\obj\Debug\CRUD - List.exe
+c:\users\minhaj\source\repos\CRUD - List\CRUD - List\obj\Debug\CRUD - List.pdb
+\\server\Faculty\Minhaj Khan\Winforms\CRUD - List\CRUD - List\bin\Debug\CRUD - List.exe.config
+\\server\Faculty\Minhaj Khan\Winforms\CRUD - List\CRUD - List\bin\Debug\CRUD - List.exe
+\\server\Faculty\Minhaj Khan\Winforms\CRUD - List\CRUD - List\bin\Debug\CRUD - List.pdb
+\\server\Faculty\Minhaj Khan\Winforms\CRUD - List\CRUD - List\obj\Debug\CRUD - List.csprojResolveAssemblyReference.cache
+\\server\Faculty\Minhaj Khan\Winforms\CRUD - List\CRUD - List\obj\Debug\CRUD___List.Form1.resources
+\\server\Faculty\Minhaj Khan\Winforms\CRUD - List\CRUD - List\obj\Debug\CRUD___List.Properties.Resources.resources
+\\server\Faculty\Minhaj Khan\Winforms\CRUD - List\CRUD - List\obj\Debug\CRUD - List.csproj.GenerateResource.Cache
+\\server\Faculty\Minhaj Khan\Winforms\CRUD - List\CRUD - List\obj\Debug\CRUD - List.csproj.CoreCompileInputs.cache
+\\server\Faculty\Minhaj Khan\Winforms\CRUD - List\CRUD - List\obj\Debug\CRUD - List.exe
+\\server\Faculty\Minhaj Khan\Winforms\CRUD - List\CRUD - List\obj\Debug\CRUD - List.pdb
